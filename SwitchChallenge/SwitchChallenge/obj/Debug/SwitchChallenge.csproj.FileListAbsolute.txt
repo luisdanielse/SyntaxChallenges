@@ -1,0 +1,7 @@
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe.config
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.exe
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\bin\Debug\SwitchChallenge.pdb
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.AssemblyReference.cache
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.csproj.CoreCompileInputs.cache
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.exe
+E:\visual-studiop\SyntaxChallenges\SwitchChallenge\SwitchChallenge\obj\Debug\SwitchChallenge.pdb

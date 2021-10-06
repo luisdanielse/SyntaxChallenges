@@ -1,0 +1,7 @@
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\bin\Debug\whileChallenge.exe.config
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\bin\Debug\whileChallenge.exe
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\bin\Debug\whileChallenge.pdb
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\obj\Debug\whileChallenge.csproj.AssemblyReference.cache
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\obj\Debug\whileChallenge.csproj.CoreCompileInputs.cache
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\obj\Debug\whileChallenge.exe
+E:\visual-studiop\SyntaxChallenges\whileChallenge\whileChallenge\obj\Debug\whileChallenge.pdb
